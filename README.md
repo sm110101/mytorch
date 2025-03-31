@@ -136,14 +136,14 @@ history = optimizer.fit(
 ```
 
 ## Project Structure
-
+```bash
 mytorch/
 │
 ├── models.py # Neural network model implementations
 ├── optimizers.py # Optimization algorithms and training loops
 ├── data.py # Data loading and preprocessing utilities
 └── report.py # Visualization and metrics reporting tools
-
+```
 
 ## Further Documentation
 
